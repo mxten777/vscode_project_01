@@ -82,7 +82,7 @@ export default function LeadershipSection() {
                   boxShadow: "0 8px 24px rgba(37,99,235,0.4)",
                 }}
               >
-                鄭
+                靑
               </div>
               <div style={{ fontSize: "22px", fontWeight: 900, color: "#fff", letterSpacing: "-0.02em" }}>
                 청가람
