@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 const values = [
   { icon: "⚖️", title: "공정한 정치", desc: "모든 결정에서 편향 없이 공정하게" },
@@ -85,7 +85,7 @@ export default function LeadershipSection() {
                 鄭
               </div>
               <div style={{ fontSize: "22px", fontWeight: 900, color: "#fff", letterSpacing: "-0.02em" }}>
-                정동열
+                청가람
               </div>
               <div style={{ fontSize: "13px", color: "#93C5FD", marginTop: "6px", letterSpacing: "0.05em" }}>
                 국회의원 · 3선
@@ -256,7 +256,7 @@ export default function LeadershipSection() {
                   marginBottom: "2px",
                 }}
               >
-                정동열 국회의원
+                청가람 국회의원
               </div>
               <div style={{ fontSize: "13px", color: "rgba(255,255,255,0.45)" }}>
                 3선 · 국회 정책위원회 부의장
